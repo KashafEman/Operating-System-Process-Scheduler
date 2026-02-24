@@ -124,9 +124,9 @@ Visualization: Matplotlib
 
 Environment: VS Code
 
-Educational Value
+# Educational Value
 
-# This project is designed for:
+This project is designed for:
 
 Operating Systems coursework
 
